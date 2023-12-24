@@ -50,5 +50,5 @@ Compile and run the program. When prompted, enter 'm' for Merge Sort, 'q' for Qu
 
 # bash
 
-g++ -std=c++11 SortingAlgorithms.cpp
-./SortingAlgorithms
+- g++ -std=c++11 SortingAlgorithms.cpp
+- ./SortingAlgorithms
