@@ -1,0 +1,1 @@
+aaa bbb tccc derived directly or indirectly from the classes istream and ostream. We have already used objects whose types were these classes: cin is an object of class istream and cout is an object of class ostream.
