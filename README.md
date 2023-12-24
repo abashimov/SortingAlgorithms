@@ -48,7 +48,7 @@ The program consists of the following functions:
 
 Compile and run the program. When prompted, enter 'm' for Merge Sort, 'q' for Quick Sort, or 'e' to exit the program.
 
-#bash
+# bash
 
 g++ -std=c++11 SortingAlgorithms.cpp
 ./SortingAlgorithms
