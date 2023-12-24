@@ -1,4 +1,4 @@
-# SortingAlgorithms C++
+# SortingAlgorithms C++ (Quick Sort / Merge Sort)
 
 SortingAlgorithms program implemented in C++
 
