@@ -1,6 +1,6 @@
 # SortingAlgorithms C++ (Quick Sort / Merge Sort)
 
-SortingAlgorithms program implemented in C++
+SortingAlgorithms - C++, Merge Sort, Quick Sort
 
 This C++ program reads a list of words from a file, sorts them using either Quick Sort or Merge Sort, and writes the sorted data to an output file. The user can choose between Quick Sort and Merge Sort.
 
